@@ -1,2 +1,2 @@
 prefix = 'prefix'
-token = "bots token"
+token = "https://discord.gg/kfH7YGPdX6"
